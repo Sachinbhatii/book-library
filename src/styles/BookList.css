@@ -1,0 +1,12 @@
+.book-list {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0;
+    max-height: 480px;
+    overflow: auto;
+}
+
+.empty {
+    padding: 12px;
+    color: #666;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A guide to building good habits and breaking bad ones with proven strategies for lasting behavior change.",
+    "isRead": true
+  },
+  {
+    "id": "2",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "An inspiring tale of a young shepherd named Santiago who follows his dreams in search of treasure and self-discovery.",
+    "isRead": false
+  },
+  {
+    "id": "3",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A classic novel exploring racial injustice, moral growth, and compassion in the Deep South through the eyes of a child.",
+    "isRead": true
+  },
+  {
+    "id": "4",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian masterpiece depicting a totalitarian regime that controls every aspect of its citizens' lives.",
+    "isRead": false
+  },
+  {
+    "id": "5",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "description": "A counterintuitive approach to living a good life by embracing limitations, challenges, and values that truly matter.",
+    "isRead": true
+  },
+  {
+    "id": "6",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "description": "A must-read for software developers focusing on craftsmanship, best practices, and continuous improvement.",
+    "isRead": false
+  },
+  {
+    "id": "7",
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "description": "A deeply personal memoir by the former First Lady of the United States, reflecting on her journey, challenges, and triumphs.",
+    "isRead": true
+  },
+  {
+    "id": "8",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "An exploration of the history of humanity from the Stone Age to the modern era, blending science, history, and philosophy.",
+    "isRead": false
+  },
+  {
+    "id": "9",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "A thought-provoking story about choices, regrets, and the infinite possibilities of life between life and death.",
+    "isRead": false
+  },
+  {
+    "id": "10",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "description": "A book about focusing without distraction in a world full of noise, helping you achieve better productivity and purpose.",
+    "isRead": true
+  }
+]

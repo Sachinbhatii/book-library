@@ -1,0 +1,58 @@
+.book-details {
+  background: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px var(--shadow);
+  transition: background 0.4s ease, color 0.4s ease, border 0.4s ease, box-shadow 0.4s ease;
+}
+
+.book-details.empty {
+  text-align: center;
+  color: var(--subtext);
+  font-style: italic;
+  padding-top: 40px;
+}
+
+.details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.details-header h2 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: var(--primary);
+}
+
+.details-header .close {
+  border: none;
+  background: transparent;
+  color: var(--subtext);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.details-header .close:hover {
+  color: #ef4444;
+}
+
+.book-details p {
+  margin: 10px 0;
+  font-size: 0.95rem;
+}
+
+.book-details .desc {
+  margin-top: 10px;
+  white-space: pre-wrap;
+  line-height: 1.4;
+}
+
+.book-details .meta {
+  margin-top: 14px;
+  color: var(--subtext);
+  font-size: 0.85rem;
+}
